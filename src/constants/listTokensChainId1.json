@@ -1,0 +1,3793 @@
+[{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb81"
+  },
+  "chainId": 1,
+  "tokenName": "numeraire",
+  "tokenSymbol": "nmr",
+  "tokenAddress": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb84"
+  },
+  "chainId": 1,
+  "tokenName": "curve dao token",
+  "tokenSymbol": "crv",
+  "tokenAddress": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb85"
+  },
+  "chainId": 1,
+  "tokenName": "biconomy",
+  "tokenSymbol": "bico",
+  "tokenAddress": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb78"
+  },
+  "chainId": 1,
+  "tokenName": "ethereum",
+  "tokenSymbol": "eth",
+  "tokenAddress": "0x0000000000000000000000000000000000000000",
+  "decimal": 18,
+  "isNative": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb7b"
+  },
+  "chainId": 1,
+  "tokenName": "ocean protocol",
+  "tokenSymbol": "ocean",
+  "tokenAddress": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb89"
+  },
+  "chainId": 1,
+  "tokenName": "0x protocol token",
+  "tokenSymbol": "zrx",
+  "tokenAddress": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb91"
+  },
+  "chainId": 1,
+  "tokenName": "highstreet",
+  "tokenSymbol": "high",
+  "tokenAddress": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb82"
+  },
+  "chainId": 1,
+  "tokenName": "yearn finance",
+  "tokenSymbol": "yfi",
+  "tokenAddress": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb88"
+  },
+  "chainId": 1,
+  "tokenName": "band protocol",
+  "tokenSymbol": "band",
+  "tokenAddress": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb80"
+  },
+  "chainId": 1,
+  "tokenName": "kyber network crystal",
+  "tokenSymbol": "knc",
+  "tokenAddress": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb7e"
+  },
+  "chainId": 1,
+  "tokenName": "orchid",
+  "tokenSymbol": "oxt",
+  "tokenAddress": "0x4575f41308ec1483f3d399aa9a2826d74da13deb",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb7f"
+  },
+  "chainId": 1,
+  "tokenName": "tether usd",
+  "tokenSymbol": "usdt",
+  "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb83"
+  },
+  "chainId": 1,
+  "tokenName": "usdcoin",
+  "tokenSymbol": "usdc",
+  "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb7d"
+  },
+  "chainId": 1,
+  "tokenName": "chainlink token",
+  "tokenSymbol": "link",
+  "tokenAddress": "0x514910771af9ca656af840dff83e8264ecf986ca",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb77"
+  },
+  "chainId": 1,
+  "tokenName": "mirror protocol",
+  "tokenSymbol": "mir",
+  "tokenAddress": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317871"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb8f"
+  },
+  "chainId": 1,
+  "tokenName": "aave",
+  "tokenSymbol": "aave",
+  "tokenAddress": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb8e"
+  },
+  "chainId": 1,
+  "tokenName": "golem",
+  "tokenSymbol": "glm",
+  "tokenAddress": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb90"
+  },
+  "chainId": 1,
+  "tokenName": "magic internet money",
+  "tokenSymbol": "mim",
+  "tokenAddress": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb8d"
+  },
+  "chainId": 1,
+  "tokenName": "frax share",
+  "tokenSymbol": "fxs",
+  "tokenAddress": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb87"
+  },
+  "chainId": 1,
+  "tokenName": "compound",
+  "tokenSymbol": "comp",
+  "tokenAddress": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb8a"
+  },
+  "chainId": 1,
+  "tokenName": "request",
+  "tokenSymbol": "req",
+  "tokenAddress": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb86"
+  },
+  "chainId": 1,
+  "tokenName": "uniswap",
+  "tokenSymbol": "uni",
+  "tokenAddress": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb7a"
+  },
+  "chainId": 1,
+  "tokenName": "injective",
+  "tokenSymbol": "inj",
+  "tokenAddress": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb8b"
+  },
+  "chainId": 1,
+  "tokenName": "immutable x",
+  "tokenSymbol": "imx",
+  "tokenAddress": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb8c"
+  },
+  "chainId": 1,
+  "tokenName": "ethernity chain",
+  "tokenSymbol": "ern",
+  "tokenAddress": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb79"
+  },
+  "chainId": 1,
+  "tokenName": "iotex",
+  "tokenSymbol": "iotx",
+  "tokenAddress": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb7c"
+  },
+  "chainId": 1,
+  "tokenName": "dai stablecoin",
+  "tokenSymbol": "dai",
+  "tokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb94"
+  },
+  "chainId": 1,
+  "tokenName": "synthetix network token",
+  "tokenSymbol": "snx",
+  "tokenAddress": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb95"
+  },
+  "chainId": 1,
+  "tokenName": "spell token",
+  "tokenSymbol": "spell",
+  "tokenAddress": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb96"
+  },
+  "chainId": 1,
+  "tokenName": "rai reflex index",
+  "tokenSymbol": "rai",
+  "tokenAddress": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb97"
+  },
+  "chainId": 1,
+  "tokenName": "polygon",
+  "tokenSymbol": "matic",
+  "tokenAddress": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb98"
+  },
+  "chainId": 1,
+  "tokenName": "alchemix",
+  "tokenSymbol": "alcx",
+  "tokenAddress": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb99"
+  },
+  "chainId": 1,
+  "tokenName": "1inch",
+  "tokenSymbol": "1inch",
+  "tokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb9a"
+  },
+  "chainId": 1,
+  "tokenName": "arpa chain",
+  "tokenSymbol": "arpa",
+  "tokenAddress": "0xba50933c268f567bdc86e1ac131be072c6b0b71a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb9c"
+  },
+  "chainId": 1,
+  "tokenName": "maker",
+  "tokenSymbol": "mkr",
+  "tokenAddress": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb9b"
+  },
+  "chainId": 1,
+  "tokenName": "playdapp",
+  "tokenSymbol": "pla",
+  "tokenAddress": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb9d"
+  },
+  "chainId": 1,
+  "tokenName": "balancer",
+  "tokenSymbol": "bal",
+  "tokenAddress": "0xba100000625a3754423978a60c9317c58a424e3d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb9e"
+  },
+  "chainId": 1,
+  "tokenName": "decentraland",
+  "tokenSymbol": "mana",
+  "tokenAddress": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb9f"
+  },
+  "chainId": 1,
+  "tokenName": "reputation augur v1",
+  "tokenSymbol": "rep",
+  "tokenAddress": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba0"
+  },
+  "chainId": 1,
+  "tokenName": "terrausd wormhole ",
+  "tokenSymbol": "ust",
+  "tokenAddress": "0xa693b19d2931d498c5b318df961919bb4aee87a5",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba1"
+  },
+  "chainId": 1,
+  "tokenName": "cryptex finance",
+  "tokenSymbol": "ctx",
+  "tokenAddress": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba3"
+  },
+  "chainId": 1,
+  "tokenName": "republic token",
+  "tokenSymbol": "ren",
+  "tokenAddress": "0x408e41876cccdc0f92210600ef50372656052a38",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba5"
+  },
+  "chainId": 1,
+  "tokenName": "fetch ai",
+  "tokenSymbol": "fet",
+  "tokenAddress": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba2"
+  },
+  "chainId": 1,
+  "tokenName": "bancor network token",
+  "tokenSymbol": "bnt",
+  "tokenAddress": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba4"
+  },
+  "chainId": 1,
+  "tokenName": "loopringcoin v2",
+  "tokenSymbol": "lrc",
+  "tokenAddress": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba6"
+  },
+  "chainId": 1,
+  "tokenName": "truefi",
+  "tokenSymbol": "tru",
+  "tokenAddress": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba7"
+  },
+  "chainId": 1,
+  "tokenName": "sushi",
+  "tokenSymbol": "sushi",
+  "tokenAddress": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba8"
+  },
+  "chainId": 1,
+  "tokenName": "audius",
+  "tokenSymbol": "audio",
+  "tokenAddress": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbab"
+  },
+  "chainId": 1,
+  "tokenName": "enjin coin",
+  "tokenSymbol": "enj",
+  "tokenAddress": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fba9"
+  },
+  "chainId": 1,
+  "tokenName": "ethereum name service",
+  "tokenSymbol": "ens",
+  "tokenAddress": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbaa"
+  },
+  "chainId": 1,
+  "tokenName": "gemini dollar",
+  "tokenSymbol": "gusd",
+  "tokenAddress": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbac"
+  },
+  "chainId": 1,
+  "tokenName": "dia",
+  "tokenSymbol": "dia",
+  "tokenAddress": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbad"
+  },
+  "chainId": 1,
+  "tokenName": "apecoin",
+  "tokenSymbol": "ape",
+  "tokenAddress": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbae"
+  },
+  "chainId": 1,
+  "tokenName": "dydx",
+  "tokenSymbol": "dydx",
+  "tokenAddress": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbaf"
+  },
+  "chainId": 1,
+  "tokenName": "cronos",
+  "tokenSymbol": "cro",
+  "tokenAddress": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb0"
+  },
+  "chainId": 1,
+  "tokenName": "tokemak",
+  "tokenSymbol": "toke",
+  "tokenAddress": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb1"
+  },
+  "chainId": 1,
+  "tokenName": "mask network",
+  "tokenSymbol": "mask",
+  "tokenAddress": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb2"
+  },
+  "chainId": 1,
+  "tokenName": "the graph",
+  "tokenSymbol": "grt",
+  "tokenAddress": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb3"
+  },
+  "chainId": 1,
+  "tokenName": "perpetual protocol",
+  "tokenSymbol": "perp",
+  "tokenAddress": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb4"
+  },
+  "chainId": 1,
+  "tokenName": "convex finance",
+  "tokenSymbol": "cvx",
+  "tokenAddress": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb6"
+  },
+  "chainId": 1,
+  "tokenName": "alchemy pay",
+  "tokenSymbol": "ach",
+  "tokenAddress": "0xed04915c23f00a313a544955524eb7dbd823143d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb5"
+  },
+  "chainId": 1,
+  "tokenName": "the sandbox",
+  "tokenSymbol": "sand",
+  "tokenAddress": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb7"
+  },
+  "chainId": 1,
+  "tokenName": "bounce",
+  "tokenSymbol": "auction",
+  "tokenAddress": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb8"
+  },
+  "chainId": 1,
+  "tokenName": "basic attention token",
+  "tokenSymbol": "bat",
+  "tokenAddress": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbb9"
+  },
+  "chainId": 1,
+  "tokenName": "ankr",
+  "tokenSymbol": "ankr",
+  "tokenAddress": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbba"
+  },
+  "chainId": 1,
+  "tokenName": "shapeshift fox token",
+  "tokenSymbol": "fox",
+  "tokenAddress": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbbb"
+  },
+  "chainId": 4,
+  "tokenName": "ethereum",
+  "tokenSymbol": "eth",
+  "tokenAddress": "0x0000000000000000000000000000000000000000",
+  "decimal": 18,
+  "isNative": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbbc"
+  },
+  "chainId": 4,
+  "tokenName": "bekhnam usd",
+  "tokenSymbol": "usdb",
+  "tokenAddress": "0x05ada1ecdf8314e4c29d300692403bc57c002518",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbbd"
+  },
+  "chainId": 4,
+  "tokenName": "bekhnam",
+  "tokenSymbol": "bkn",
+  "tokenAddress": "0x996afe323cd425f3aba1d1c1c72ddfed7840275d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbbf"
+  },
+  "chainId": 4,
+  "tokenName": "dai stablecoin",
+  "tokenSymbol": "dai",
+  "tokenAddress": "0xd89421700deac7cc95b42fb6ca48eabc0f8ee1d6",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbbe"
+  },
+  "chainId": 4,
+  "tokenName": "wrapped ether",
+  "tokenSymbol": "weth",
+  "tokenAddress": "0xfaba53c7eaa37df1f5401487fd667a986f89b4db",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc0"
+  },
+  "chainId": 4,
+  "tokenName": "0x protocol token",
+  "tokenSymbol": "zrx",
+  "tokenAddress": "0x478daf8efa9f459eebe107a7606f460bd0b6a76e",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc3"
+  },
+  "chainId": 4,
+  "tokenName": "tether usd",
+  "tokenSymbol": "usdt",
+  "tokenAddress": "0x168b8404d8f14b0199323379a29eb975405f2c3a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc4"
+  },
+  "chainId": 4,
+  "tokenName": "usdcoin",
+  "tokenSymbol": "usdc",
+  "tokenAddress": "0x1eb65098cbbcea2cd315262fcc11646706a2747a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc1"
+  },
+  "chainId": 4,
+  "tokenName": "curve dao token",
+  "tokenSymbol": "crv",
+  "tokenAddress": "0xb9e49e2758aaa34d99a1d70f3b29c7f60d1379f3",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc2"
+  },
+  "chainId": 4,
+  "tokenName": "uniswap",
+  "tokenSymbol": "uni",
+  "tokenAddress": "0xb017feb7241faef716116818c54318c612ff1c38",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc5"
+  },
+  "chainId": 4,
+  "tokenName": "orchid",
+  "tokenSymbol": "oxt",
+  "tokenAddress": "0x2a7698f24061123f40202aefae0f8abb38ba3eda",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc6"
+  },
+  "chainId": 4,
+  "tokenName": "maker",
+  "tokenSymbol": "mkr",
+  "tokenAddress": "0xac6afaf998094fd28f988a4ee29662b9e0a6ffd7",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc7"
+  },
+  "chainId": 4,
+  "tokenName": "chainlink token",
+  "tokenSymbol": "link",
+  "tokenAddress": "0x1dc327e2522eaed681b0c2c5232d65af2eef3677",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc9"
+  },
+  "chainId": 4,
+  "tokenName": "kyber network crystal",
+  "tokenSymbol": "knc",
+  "tokenAddress": "0x332d6be0b8d67f2678f3230f1587bd2ccd11c5e9",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbc8"
+  },
+  "chainId": 4,
+  "tokenName": "reputation augur v1",
+  "tokenSymbol": "rep",
+  "tokenAddress": "0x6e91cd4d68e4cdf425decd643c1c3d0ac630c42d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbca"
+  },
+  "chainId": 4,
+  "tokenName": "compound",
+  "tokenSymbol": "comp",
+  "tokenAddress": "0x8fbfc921008c1d0797f9fd7376632e26075419a0",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbcc"
+  },
+  "chainId": 4,
+  "tokenName": "numeraire",
+  "tokenSymbol": "nmr",
+  "tokenAddress": "0xa32951a0df0549e1bda5e1ac18a102a400522cc6",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbcb"
+  },
+  "chainId": 4,
+  "tokenName": "band protocol",
+  "tokenSymbol": "band",
+  "tokenAddress": "0x49783474c30d7c68ff92e0f64ef82a4ad4a27477",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbcd"
+  },
+  "chainId": 4,
+  "tokenName": "uma voting token v1",
+  "tokenSymbol": "uma",
+  "tokenAddress": "0x1e6bdbdc0f63e503bfb00a1a5f46db08ae8c0601",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbce"
+  },
+  "chainId": 4,
+  "tokenName": "loopringcoin v2",
+  "tokenSymbol": "lrc",
+  "tokenAddress": "0x6b09a830e7a9e751054cd0f59e25a8882a44e3a6",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbcf"
+  },
+  "chainId": 4,
+  "tokenName": "yearn finance",
+  "tokenSymbol": "yfi",
+  "tokenAddress": "0x2eead1b0075c138b1041cb21504bf7f4a62545c3",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd1"
+  },
+  "chainId": 4,
+  "tokenName": "wrapped btc",
+  "tokenSymbol": "wbtc",
+  "tokenAddress": "0x0a8814d06f3f9dbef918ac2ec49f3de0c4a2d4d5",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd0"
+  },
+  "chainId": 4,
+  "tokenName": "republic token",
+  "tokenSymbol": "ren",
+  "tokenAddress": "0x597e94e256fab636dbf181f870d18aea603a4497",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd2"
+  },
+  "chainId": 4,
+  "tokenName": "balancer",
+  "tokenSymbol": "bal",
+  "tokenAddress": "0x1dd1401cd82d16b72016b82eb1a33a71d686914b",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd3"
+  },
+  "chainId": 4,
+  "tokenName": "aave",
+  "tokenSymbol": "aave",
+  "tokenAddress": "0xbf508794145f8289fd042332305a395aacbd9ecd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd5"
+  },
+  "chainId": 4,
+  "tokenName": "bancor network token",
+  "tokenSymbol": "bnt",
+  "tokenAddress": "0x2013949e387fde2c17221b0e918815ef0ae2858d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd6"
+  },
+  "chainId": 4,
+  "tokenName": "synthetix network token",
+  "tokenSymbol": "snx",
+  "tokenAddress": "0x79450d56d9a2b971374f9079497a3f28990166cd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd4"
+  },
+  "chainId": 4,
+  "tokenName": "the graph",
+  "tokenSymbol": "grt",
+  "tokenAddress": "0x3262798cdd71e01df1b769a918334f1060d13ce9",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd7"
+  },
+  "chainId": 4,
+  "tokenName": "decentraland",
+  "tokenSymbol": "mana",
+  "tokenAddress": "0x39fdf025d2e0c317ae9c4200ecf98e27bc2032ad",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd8"
+  },
+  "chainId": 4,
+  "tokenName": "amp",
+  "tokenSymbol": "amp",
+  "tokenAddress": "0x20130f48c7f4a2c46039d931f2a3e1ac51870e05",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbdb"
+  },
+  "chainId": 4,
+  "tokenName": "apecoin",
+  "tokenSymbol": "ape",
+  "tokenAddress": "0x97d6de537899863368f67cdaa341663962cb0edd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbd9"
+  },
+  "chainId": 4,
+  "tokenName": "ethereum name service",
+  "tokenSymbol": "ens",
+  "tokenAddress": "0x22a10b719b12760e2fac9113618242bec16f0570",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbdf"
+  },
+  "chainId": 4,
+  "tokenName": "ankr",
+  "tokenSymbol": "ankr",
+  "tokenAddress": "0x4c015c9164b578f4020ef3401fcf03cbd5003518",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbde"
+  },
+  "chainId": 4,
+  "tokenName": "ampleforth governance token",
+  "tokenSymbol": "forth",
+  "tokenAddress": "0xcfade28a5d91b9461c117e5d64bf5e428bbdadd1",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbda"
+  },
+  "chainId": 4,
+  "tokenName": "polygon",
+  "tokenSymbol": "matic",
+  "tokenAddress": "0xf474c118b0006eddc73ac224d88fe8255549acfc",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbdc"
+  },
+  "chainId": 4,
+  "tokenName": "1inch",
+  "tokenSymbol": "1inch",
+  "tokenAddress": "0xbdc8f950bc743b0172164f0d4622a50cb4b904f5",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbdd"
+  },
+  "chainId": 4,
+  "tokenName": "alchemix",
+  "tokenSymbol": "alcx",
+  "tokenAddress": "0x5d0e7e3914f3b00b03005c06de4d7bac463863cc",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe0"
+  },
+  "chainId": 4,
+  "tokenName": "arpa chain",
+  "tokenSymbol": "arpa",
+  "tokenAddress": "0xb21aa091a2febb2e5a8cc074b11836f0029c68e4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe1"
+  },
+  "chainId": 4,
+  "tokenName": "cryptex finance",
+  "tokenSymbol": "ctx",
+  "tokenAddress": "0xf1be065bf4c6b8ce17b549e42a8e9424f152b085",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe2"
+  },
+  "chainId": 4,
+  "tokenName": "badger dao",
+  "tokenSymbol": "badger",
+  "tokenAddress": "0x5b6cad6118d5e156048db72a49d6899aa7afda30",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe3"
+  },
+  "chainId": 4,
+  "tokenName": "cronos",
+  "tokenSymbol": "cro",
+  "tokenAddress": "0x224a0475915776380357ee088925fdf1c22388f3",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe4"
+  },
+  "chainId": 4,
+  "tokenName": "basic attention token",
+  "tokenSymbol": "bat",
+  "tokenAddress": "0xa0a231b67c1624f3dc4e8ac182602814697b10ff",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe5"
+  },
+  "chainId": 4,
+  "tokenName": "biconomy",
+  "tokenSymbol": "bico",
+  "tokenAddress": "0xfc462bca309b0b9a31dd9354da6f84c6e37a658d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe6"
+  },
+  "chainId": 4,
+  "tokenName": "immutable x",
+  "tokenSymbol": "imx",
+  "tokenAddress": "0x4d9f8e19a105e0b343ddc99c34f3003617805872",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317873"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe7"
+  },
+  "chainId": 4,
+  "tokenName": "mask network",
+  "tokenSymbol": "mask",
+  "tokenAddress": "0xe1eb426fe2e30ce825b8fb27c1414581d1053b0f",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe8"
+  },
+  "chainId": 4,
+  "tokenName": "bounce",
+  "tokenSymbol": "auction",
+  "tokenAddress": "0x06559ce5329025182ca62cfb24df47509a6f0456",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbe9"
+  },
+  "chainId": 4,
+  "tokenName": "playdapp",
+  "tokenSymbol": "pla",
+  "tokenAddress": "0x0e671b58e1a2856c9c0c09dca06fe87746657809",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbea"
+  },
+  "chainId": 4,
+  "tokenName": "rai reflex index",
+  "tokenSymbol": "rai",
+  "tokenAddress": "0xed17394d9cbfb50cf21c854ab42f964c60bebc3a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbeb"
+  },
+  "chainId": 4,
+  "tokenName": "synapse",
+  "tokenSymbol": "syn",
+  "tokenAddress": "0x975a299b40716b4755c21e82eef1f033e1c50ac3",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbec"
+  },
+  "chainId": 4,
+  "tokenName": "terrausd wormhole ",
+  "tokenSymbol": "ust",
+  "tokenAddress": "0x0c4a707f0f8652e6a9b2751c310f4dcbe50ff96a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbed"
+  },
+  "chainId": 4,
+  "tokenName": "truefi",
+  "tokenSymbol": "tru",
+  "tokenAddress": "0x432f0b6feafb46fbda207a1fdc40bf5e13abfc49",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbef"
+  },
+  "chainId": 4,
+  "tokenName": "enjin coin",
+  "tokenSymbol": "enj",
+  "tokenAddress": "0x4f332a1ac252168fa0788063a5da166658d22eb3",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf0"
+  },
+  "chainId": 4,
+  "tokenName": "tokemak",
+  "tokenSymbol": "toke",
+  "tokenAddress": "0x8b143c822a88ae7cf46a6c5339ce05be7bdb818a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbee"
+  },
+  "chainId": 4,
+  "tokenName": "dia",
+  "tokenSymbol": "dia",
+  "tokenAddress": "0xfb778cfca89dc3b67fbecd485a73600a984f3d60",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf1"
+  },
+  "chainId": 4,
+  "tokenName": "ethernity chain",
+  "tokenSymbol": "ern",
+  "tokenAddress": "0xbbbcb9b292d3f06b4bfe247a2961cdf49156df97",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf2"
+  },
+  "chainId": 4,
+  "tokenName": "fetch ai",
+  "tokenSymbol": "fet",
+  "tokenAddress": "0xc93737ff62d3af1c54ab7b7232d0754ac25e0dc3",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf3"
+  },
+  "chainId": 4,
+  "tokenName": "golem",
+  "tokenSymbol": "glm",
+  "tokenAddress": "0xef66858a5aaccbb0370360768b094859e7662855",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf5"
+  },
+  "chainId": 4,
+  "tokenName": "highstreet",
+  "tokenSymbol": "high",
+  "tokenAddress": "0xa24359ef249c4e6416f429fe90949aa5a10bfd92",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbfa"
+  },
+  "chainId": 4,
+  "tokenName": "shapeshift fox token",
+  "tokenSymbol": "fox",
+  "tokenAddress": "0xef859a696073ad64ed98ff8725bbc698b68b4e27",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf4"
+  },
+  "chainId": 4,
+  "tokenName": "gyen",
+  "tokenSymbol": "gyen",
+  "tokenAddress": "0x0b62991aecffb4d9492892a1aecea4f6152abf1c",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf6"
+  },
+  "chainId": 4,
+  "tokenName": "mirror protocol",
+  "tokenSymbol": "mir",
+  "tokenAddress": "0x9a804b92693dee883cb78e167cd66934d280efa9",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf8"
+  },
+  "chainId": 4,
+  "tokenName": "iotex",
+  "tokenSymbol": "iotx",
+  "tokenAddress": "0x2c66e821cedb9d9183662386bc379e28f1edd200",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf7"
+  },
+  "chainId": 4,
+  "tokenName": "perpetual protocol",
+  "tokenSymbol": "perp",
+  "tokenAddress": "0xa6b7ddca05365495673a3702445e997545aa28bd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbf9"
+  },
+  "chainId": 4,
+  "tokenName": "request",
+  "tokenSymbol": "req",
+  "tokenAddress": "0xb88802fc5c0c1ace421661023b2ac61e4b5eeb9b",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbfb"
+  },
+  "chainId": 4,
+  "tokenName": "spell token",
+  "tokenSymbol": "spell",
+  "tokenAddress": "0x798428ecdfd3521966ef51e7120a1645d3dc84f2",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbfd"
+  },
+  "chainId": 4,
+  "tokenName": "convex finance",
+  "tokenSymbol": "cvx",
+  "tokenAddress": "0xc04d7ecd6bc117ad290762fca80cf52479bda9d0",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbfc"
+  },
+  "chainId": 4,
+  "tokenName": "sushi",
+  "tokenSymbol": "sushi",
+  "tokenAddress": "0x7ffc2734207ec4ea37d85fc092c86d6c50347e0d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbfe"
+  },
+  "chainId": 4,
+  "tokenName": "dydx",
+  "tokenSymbol": "dydx",
+  "tokenAddress": "0xb3d0c54d0535815a54a7bedd3159c4adc403f270",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fbff"
+  },
+  "chainId": 4,
+  "tokenName": "frax share",
+  "tokenSymbol": "fxs",
+  "tokenAddress": "0xb685c45b01cb1b752cd5ebe869f5832b82ee4682",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc00"
+  },
+  "chainId": 4,
+  "tokenName": "ocean protocol",
+  "tokenSymbol": "ocean",
+  "tokenAddress": "0xc419a9d55a60c0d01a4db60fded26a46d0d298eb",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc02"
+  },
+  "chainId": 4,
+  "tokenName": "the sandbox",
+  "tokenSymbol": "sand",
+  "tokenAddress": "0x355a1d1cde273cbce376682cecc3bc2041e4e64f",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc01"
+  },
+  "chainId": 4,
+  "tokenName": "alchemy pay",
+  "tokenSymbol": "ach",
+  "tokenAddress": "0xb766006e311805852531e071f7f627ebb3199ed4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc03"
+  },
+  "chainId": 4,
+  "tokenName": "gemini dollar",
+  "tokenSymbol": "gusd",
+  "tokenAddress": "0xa096b297167dc30ae7e12f629849b45a6dcd085e",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc04"
+  },
+  "chainId": 4,
+  "tokenName": "audius",
+  "tokenSymbol": "audio",
+  "tokenAddress": "0x099f063c767ee15fe0e70ce391977eb4bc5f690c",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc05"
+  },
+  "chainId": 4,
+  "tokenName": "injective",
+  "tokenSymbol": "inj",
+  "tokenAddress": "0x32c1b1ea2f51f09b993e3efe0c8da056773adff7",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc06"
+  },
+  "chainId": 4,
+  "tokenName": "magic internet money",
+  "tokenSymbol": "mim",
+  "tokenAddress": "0x9f0dfe1e357abe21f3c48b961a7c538112a1aa73",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc07"
+  },
+  "chainId": 43113,
+  "tokenName": "bekhnam",
+  "tokenSymbol": "bkn",
+  "tokenAddress": "0x8f8dbd1159a9664f861d9179889a98d65f5d0235",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc08"
+  },
+  "chainId": 43113,
+  "tokenName": "ethereum",
+  "tokenSymbol": "eth",
+  "tokenAddress": "0x3c0ba6c6f56afdd2e09400857614202679877d94",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc09"
+  },
+  "chainId": 43113,
+  "tokenName": "bitcoin",
+  "tokenSymbol": "btc",
+  "tokenAddress": "0x977264138f9bcfaef09b733b601ad0eea6c1cd5d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc0a"
+  },
+  "chainId": 43113,
+  "tokenName": "dai stablecoin",
+  "tokenSymbol": "dai",
+  "tokenAddress": "0x12ccbba66edf84fe00bde4ebeb7addba71381e14",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc0b"
+  },
+  "chainId": 43113,
+  "tokenName": "usdcoin",
+  "tokenSymbol": "usdc",
+  "tokenAddress": "0x9e3c511c2c69077a46ab5fce1b79663fe14bd611",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc0c"
+  },
+  "chainId": 43113,
+  "tokenName": "tether usd",
+  "tokenSymbol": "usdt",
+  "tokenAddress": "0x2c25b78caa6d8af1f14e798c075ef191fbfe2f04",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc0e"
+  },
+  "chainId": 43113,
+  "tokenName": "polygon",
+  "tokenSymbol": "matic",
+  "tokenAddress": "0xa684db50b017a8e45e89c5785a60b787f427206e",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc0f"
+  },
+  "chainId": 80001,
+  "tokenName": "polygon",
+  "tokenSymbol": "matic",
+  "tokenAddress": "0x0000000000000000000000000000000000000000",
+  "decimal": 18,
+  "isNative": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc11"
+  },
+  "chainId": 80001,
+  "tokenName": "ethereum",
+  "tokenSymbol": "eth",
+  "tokenAddress": "0xca8b599e7f82f668e53a93d297b401cd553a93ea",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc12"
+  },
+  "chainId": 80001,
+  "tokenName": "bitcoin",
+  "tokenSymbol": "btc",
+  "tokenAddress": "0x484715c81ceafed3733ecee0fde604605f3823c0",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc10"
+  },
+  "chainId": 80001,
+  "tokenName": "dai stablecoin",
+  "tokenSymbol": "dai",
+  "tokenAddress": "0x5a7315fba549946506f2e4e07126433dfe1c1698",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc13"
+  },
+  "chainId": 80001,
+  "tokenName": "tether usd",
+  "tokenSymbol": "usdt",
+  "tokenAddress": "0x974d8831c108b83f6370f6131f7dd6e767bd74a0",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc16"
+  },
+  "chainId": 80001,
+  "tokenName": "wrapped ether",
+  "tokenSymbol": "weth",
+  "tokenAddress": "0xc2fade6721cab75d1d89aa8cb98ea577df2c3623",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc14"
+  },
+  "chainId": 80001,
+  "tokenName": "usdcoin",
+  "tokenSymbol": "usdc",
+  "tokenAddress": "0x166cf1ede7241f56a47f6687058768d4a70d456a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc15"
+  },
+  "chainId": 80001,
+  "tokenName": "bekhnam",
+  "tokenSymbol": "bkn",
+  "tokenAddress": "0x14efea12451ce6c69132cc0d69ef733649db40c3",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb93"
+  },
+  "chainId": 1,
+  "tokenName": "amp",
+  "tokenSymbol": "amp",
+  "tokenAddress": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fb92"
+  },
+  "chainId": 1,
+  "tokenName": "badger dao",
+  "tokenSymbol": "badger",
+  "tokenAddress": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc1a"
+  },
+  "chainId": 97,
+  "tokenName": "wrapped ether",
+  "tokenSymbol": "weth",
+  "tokenAddress": "0xed0a3cbd095edadaaa2d8bca927e16663748c7ee",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc19"
+  },
+  "chainId": 97,
+  "tokenName": "bekhnam",
+  "tokenSymbol": "bkn",
+  "tokenAddress": "0x7ebae9fdecebc75f1a10b028b07d204b7305d812",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc1b"
+  },
+  "chainId": 97,
+  "tokenName": "dai stablecoin",
+  "tokenSymbol": "dai",
+  "tokenAddress": "0x8ddc78b2379c429d727d66b7312584d47876212d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc1c"
+  },
+  "chainId": 97,
+  "tokenName": "0x protocol token",
+  "tokenSymbol": "zrx",
+  "tokenAddress": "0x6b2dadb8f09640b60a451cd3cf4d4276fd4c2844",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc1d"
+  },
+  "chainId": 97,
+  "tokenName": "curve dao token",
+  "tokenSymbol": "crv",
+  "tokenAddress": "0x1d3f5d843043acee4c5fd7959354d1b1ffe77a58",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc1f"
+  },
+  "chainId": 97,
+  "tokenName": "tether usd",
+  "tokenSymbol": "usdt",
+  "tokenAddress": "0x26f98c52bd5039a2341c2e907faa129b6da70ee3",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc1e"
+  },
+  "chainId": 97,
+  "tokenName": "uniswap",
+  "tokenSymbol": "uni",
+  "tokenAddress": "0x3a1bb1960a46de6571205887c06b7cdc6a0ac4a9",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc20"
+  },
+  "chainId": 97,
+  "tokenName": "usdcoin",
+  "tokenSymbol": "usdc",
+  "tokenAddress": "0x33546b0d44d3291d66aad9b3e77db7d0191e0ee0",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc21"
+  },
+  "chainId": 97,
+  "tokenName": "orchid",
+  "tokenSymbol": "oxt",
+  "tokenAddress": "0x5faa1002fa072f5abeec89c0e9347269202c8a4b",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc22"
+  },
+  "chainId": 97,
+  "tokenName": "maker",
+  "tokenSymbol": "mkr",
+  "tokenAddress": "0xcba22a251e5d2c4b242feb188f6f6710e77d2e39",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc23"
+  },
+  "chainId": 97,
+  "tokenName": "chainlink token",
+  "tokenSymbol": "link",
+  "tokenAddress": "0x612b7030051fbfad0230b8288881e84a6515b809",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc24"
+  },
+  "chainId": 97,
+  "tokenName": "reputation augur v1",
+  "tokenSymbol": "rep",
+  "tokenAddress": "0x041b393b597fdbfe6e18768fb8f19b2cfc403f9d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc25"
+  },
+  "chainId": 97,
+  "tokenName": "kyber network crystal",
+  "tokenSymbol": "knc",
+  "tokenAddress": "0x35a74716dbfe8ce3f9b57311668ef230f078a2da",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc26"
+  },
+  "chainId": 97,
+  "tokenName": "compound",
+  "tokenSymbol": "comp",
+  "tokenAddress": "0x7190c71b2f98b1195f599da2da6e00d3d7ee6966",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc27"
+  },
+  "chainId": 97,
+  "tokenName": "band protocol",
+  "tokenSymbol": "band",
+  "tokenAddress": "0x946ea8e6999ae78a2fc596e1a47fa97114eba642",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc28"
+  },
+  "chainId": 97,
+  "tokenName": "numeraire",
+  "tokenSymbol": "nmr",
+  "tokenAddress": "0xbc75beafe71c3e0516df1b281431052c859449b8",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc29"
+  },
+  "chainId": 97,
+  "tokenName": "uma voting token v1",
+  "tokenSymbol": "uma",
+  "tokenAddress": "0xd7fea134976891ac5f95ef622cfeac788e9519b5",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc2b"
+  },
+  "chainId": 97,
+  "tokenName": "yearn finance",
+  "tokenSymbol": "yfi",
+  "tokenAddress": "0xad40a392cf36ca2a96d41340d8baa0e6f543d7d4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc38"
+  },
+  "chainId": 97,
+  "tokenName": "1inch",
+  "tokenSymbol": "1inch",
+  "tokenAddress": "0x948eee0495930c50e2f2f0e31caf9a5e13cb19d0",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc30"
+  },
+  "chainId": 97,
+  "tokenName": "the graph",
+  "tokenSymbol": "grt",
+  "tokenAddress": "0x234ad5fad91ff6e238973330638fabf51420bf9b",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc36"
+  },
+  "chainId": 97,
+  "tokenName": "polygon",
+  "tokenSymbol": "matic",
+  "tokenAddress": "0xb478333dc5e18995e35b26e23586bed2498d692c",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc3d"
+  },
+  "chainId": 97,
+  "tokenName": "cryptex finance",
+  "tokenSymbol": "ctx",
+  "tokenAddress": "0xe187559f91fe097bf5dcdff95a7b255a46460ee4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc31"
+  },
+  "chainId": 97,
+  "tokenName": "bancor network token",
+  "tokenSymbol": "bnt",
+  "tokenAddress": "0xbd1e8b3e5131b24d5e3fac3a9612fe45252b27aa",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc2c"
+  },
+  "chainId": 97,
+  "tokenName": "republic token",
+  "tokenSymbol": "ren",
+  "tokenAddress": "0x673478ea06776fe2fe27672535c7fe6036bbcd91",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc32"
+  },
+  "chainId": 97,
+  "tokenName": "synthetix network token",
+  "tokenSymbol": "snx",
+  "tokenAddress": "0xa9c84de392064fec9e77214231d7dc7535f94d84",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc3c"
+  },
+  "chainId": 97,
+  "tokenName": "arpa chain",
+  "tokenSymbol": "arpa",
+  "tokenAddress": "0xff5fe1541da8c32003a98d7ba0b7b421c544b2fd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc3a"
+  },
+  "chainId": 97,
+  "tokenName": "ampleforth governance token",
+  "tokenSymbol": "forth",
+  "tokenAddress": "0x7c83dd4bce3c6a72dcaa2a30ee35e8192599831f",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc3b"
+  },
+  "chainId": 97,
+  "tokenName": "ankr",
+  "tokenSymbol": "ankr",
+  "tokenAddress": "0x573fd9cf8725e0707901203a03ec8f298b49a018",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc2e"
+  },
+  "chainId": 97,
+  "tokenName": "balancer",
+  "tokenSymbol": "bal",
+  "tokenAddress": "0xfba9388b1a3b708b3f14d54323832ef69d7e8b36",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc33"
+  },
+  "chainId": 97,
+  "tokenName": "decentraland",
+  "tokenSymbol": "mana",
+  "tokenAddress": "0xc920c23bfa4838998a48d76a200405376c683e6c",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc39"
+  },
+  "chainId": 97,
+  "tokenName": "alchemix",
+  "tokenSymbol": "alcx",
+  "tokenAddress": "0x6cc1dd550c945390c37d993419edee0d21f8502a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc2f"
+  },
+  "chainId": 97,
+  "tokenName": "aave",
+  "tokenSymbol": "aave",
+  "tokenAddress": "0xb0f96f4787c162a78fdd1ad75770b9136601b484",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc34"
+  },
+  "chainId": 97,
+  "tokenName": "amp",
+  "tokenSymbol": "amp",
+  "tokenAddress": "0x59013e05483899c212165d98906fb1d0957a4f1e",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc2d"
+  },
+  "chainId": 97,
+  "tokenName": "wrapped btc",
+  "tokenSymbol": "wbtc",
+  "tokenAddress": "0x753070d137361012e6747575c86412f4e5d4052f",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc35"
+  },
+  "chainId": 97,
+  "tokenName": "ethereum name service",
+  "tokenSymbol": "ens",
+  "tokenAddress": "0xa8449def393ce236743092426fbb77b205d71ba4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc2a"
+  },
+  "chainId": 97,
+  "tokenName": "loopringcoin v2",
+  "tokenSymbol": "lrc",
+  "tokenAddress": "0x7d8cb891ebf7f51fbf1f5696e2437f1809088575",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc37"
+  },
+  "chainId": 97,
+  "tokenName": "apecoin",
+  "tokenSymbol": "ape",
+  "tokenAddress": "0xdee38e96ef11d00c05f0a43f67ca91e06ab7cb52",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc3e"
+  },
+  "chainId": 97,
+  "tokenName": "badger dao",
+  "tokenSymbol": "badger",
+  "tokenAddress": "0xd926716d100ba18a995a59db1f551beec65799ae",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc3f"
+  },
+  "chainId": 97,
+  "tokenName": "cronos",
+  "tokenSymbol": "cro",
+  "tokenAddress": "0xe3a28d47aab67f4b4fc3a6a698b3fb150a0c59d8",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc40"
+  },
+  "chainId": 97,
+  "tokenName": "basic attention token",
+  "tokenSymbol": "bat",
+  "tokenAddress": "0x63cba16fb1b9ea8a004de3e64ed907e68708e449",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc41"
+  },
+  "chainId": 97,
+  "tokenName": "biconomy",
+  "tokenSymbol": "bico",
+  "tokenAddress": "0x83c42f427dfde9c56e7089c4dbf99f136df649c4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc44"
+  },
+  "chainId": 97,
+  "tokenName": "bounce",
+  "tokenSymbol": "auction",
+  "tokenAddress": "0xe845f2bf4429169d9b11df46a95283a996e0bfa2",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc42"
+  },
+  "chainId": 97,
+  "tokenName": "immutable x",
+  "tokenSymbol": "imx",
+  "tokenAddress": "0x63831029279825a682ef7b573cfa8b5fc6afb2fd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc43"
+  },
+  "chainId": 97,
+  "tokenName": "mask network",
+  "tokenSymbol": "mask",
+  "tokenAddress": "0x890c9cde5653f06f9edc1112e673cd33e9ab1c37",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc45"
+  },
+  "chainId": 97,
+  "tokenName": "playdapp",
+  "tokenSymbol": "pla",
+  "tokenAddress": "0x5d439b4d8667faa430cc76b6c791447a77a5957a",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc46"
+  },
+  "chainId": 97,
+  "tokenName": "rai reflex index",
+  "tokenSymbol": "rai",
+  "tokenAddress": "0x59455c85f6f5fd683ba0d8e85432741d3a1e78cd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc47"
+  },
+  "chainId": 97,
+  "tokenName": "solana",
+  "tokenSymbol": "sol",
+  "tokenAddress": "0x150b747b7f811962e564a3242229b0f99fd6d9fe",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc49"
+  },
+  "chainId": 97,
+  "tokenName": "terrausd wormhole ",
+  "tokenSymbol": "ust",
+  "tokenAddress": "0x153e44ca9aa49752240b81b18a9e53472041f696",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc4d"
+  },
+  "chainId": 97,
+  "tokenName": "tokemak",
+  "tokenSymbol": "toke",
+  "tokenAddress": "0x8623b3b2a533854c30e837632bb0f413dc2f9a0d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc50"
+  },
+  "chainId": 97,
+  "tokenName": "golem",
+  "tokenSymbol": "glm",
+  "tokenAddress": "0xea016b0038c686f4cdb4b7866eba60cb875a8595",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc53"
+  },
+  "chainId": 97,
+  "tokenName": "mirror protocol",
+  "tokenSymbol": "mir",
+  "tokenAddress": "0x37f969cbabf43f4febd5f2f29906835ca426f3f7",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc48"
+  },
+  "chainId": 97,
+  "tokenName": "synapse",
+  "tokenSymbol": "syn",
+  "tokenAddress": "0xecf65134366b1bc5a6c5d6df5290854d28d18f00",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc4a"
+  },
+  "chainId": 97,
+  "tokenName": "truefi",
+  "tokenSymbol": "tru",
+  "tokenAddress": "0xae5ed76e58982c79772c0957ea1b09042ec456bb",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc4e"
+  },
+  "chainId": 97,
+  "tokenName": "ethernity chain",
+  "tokenSymbol": "ern",
+  "tokenAddress": "0xb0d99bb8d71f4390b69e7bdbb96bb34318f328e8",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc4b"
+  },
+  "chainId": 97,
+  "tokenName": "dia",
+  "tokenSymbol": "dia",
+  "tokenAddress": "0x6d350f77a2f08cacc4d42a3b588a4300d7959808",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc4c"
+  },
+  "chainId": 97,
+  "tokenName": "enjin coin",
+  "tokenSymbol": "enj",
+  "tokenAddress": "0xc6f758002d0ef2cc618904044ce359c7e9f5d8a4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317875"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc52"
+  },
+  "chainId": 97,
+  "tokenName": "highstreet",
+  "tokenSymbol": "high",
+  "tokenAddress": "0x7f47e8799125d1b87752a269e08174a2348851ba",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc4f"
+  },
+  "chainId": 97,
+  "tokenName": "fetch ai",
+  "tokenSymbol": "fet",
+  "tokenAddress": "0x21f8189ce6f6205b6b21f919e825fb5c140b2413",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc51"
+  },
+  "chainId": 97,
+  "tokenName": "gyen",
+  "tokenSymbol": "gyen",
+  "tokenAddress": "0xcb957509a768d4f19812a09782b92e948109f9dc",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc55"
+  },
+  "chainId": 97,
+  "tokenName": "iotex",
+  "tokenSymbol": "iotx",
+  "tokenAddress": "0x12aa26d49a22b4219410ae4b0e62c16015ae2cfc",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc5b"
+  },
+  "chainId": 97,
+  "tokenName": "dydx",
+  "tokenSymbol": "dydx",
+  "tokenAddress": "0xf5273fbe101181a458d542af8dc8d8dea8668995",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc56"
+  },
+  "chainId": 97,
+  "tokenName": "request",
+  "tokenSymbol": "req",
+  "tokenAddress": "0xc150303ea55b999533a9877ba8add356abe45fc4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc57"
+  },
+  "chainId": 97,
+  "tokenName": "shapeshift fox token",
+  "tokenSymbol": "fox",
+  "tokenAddress": "0x73e651709b0347af324d971bff6d7b93a5abfa22",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc59"
+  },
+  "chainId": 97,
+  "tokenName": "sushi",
+  "tokenSymbol": "sushi",
+  "tokenAddress": "0x568637bdab4b68ee3511c0572073b2757aff0d7d",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc5c"
+  },
+  "chainId": 97,
+  "tokenName": "frax share",
+  "tokenSymbol": "fxs",
+  "tokenAddress": "0x210ba9c79c055f95e41a9fe4a7d17cf5f99435e4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc54"
+  },
+  "chainId": 97,
+  "tokenName": "perpetual protocol",
+  "tokenSymbol": "perp",
+  "tokenAddress": "0xf21abc8119ccf7bd5fc63824dbf3547507d09f71",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc5d"
+  },
+  "chainId": 97,
+  "tokenName": "ocean protocol",
+  "tokenSymbol": "ocean",
+  "tokenAddress": "0xfa91811465093a865ad68b4f242abb602d73d50b",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc5e"
+  },
+  "chainId": 97,
+  "tokenName": "alchemy pay",
+  "tokenSymbol": "ach",
+  "tokenAddress": "0x55c393029ecc8948a0c6934d7cea66a13815f6f2",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc58"
+  },
+  "chainId": 97,
+  "tokenName": "spell token",
+  "tokenSymbol": "spell",
+  "tokenAddress": "0x49918f933ea053ead1cf9bdb312e9a5aac0f9ea8",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc5a"
+  },
+  "chainId": 97,
+  "tokenName": "convex finance",
+  "tokenSymbol": "cvx",
+  "tokenAddress": "0x9417df632fdbd21e2814de6f14feee6cb33a1193",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc60"
+  },
+  "chainId": 97,
+  "tokenName": "gemini dollar",
+  "tokenSymbol": "gusd",
+  "tokenAddress": "0x209ee25322bfea5b6a820b9f720d1ec9c2dc94dd",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc5f"
+  },
+  "chainId": 97,
+  "tokenName": "the sandbox",
+  "tokenSymbol": "sand",
+  "tokenAddress": "0x089f88f0de62f4fcf79ebc9a4fcd12631796e8a6",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc61"
+  },
+  "chainId": 97,
+  "tokenName": "audius",
+  "tokenSymbol": "audio",
+  "tokenAddress": "0x4aee1b3fe1ef97f6194104d11d1f7c84ccc439f9",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc62"
+  },
+  "chainId": 97,
+  "tokenName": "injective",
+  "tokenSymbol": "inj",
+  "tokenAddress": "0xa771bdd339d1ea8c6d122ea2ecdeaad54c29b0f4",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc63"
+  },
+  "chainId": 97,
+  "tokenName": "magic internet money",
+  "tokenSymbol": "mim",
+  "tokenAddress": "0xfb77a779c104bd93052188877c72b63906054a2e",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317876"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc18"
+  },
+  "chainId": 97,
+  "tokenName": "bekhnam usd",
+  "tokenSymbol": "usdb",
+  "tokenAddress": "0x05ada1ecdf8314e4c29d300692403bc57c002518",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9e395eb1891d9ad67fc0d"
+  },
+  "chainId": 43113,
+  "tokenName": "wrapped ether",
+  "tokenSymbol": "weth",
+  "tokenAddress": "0x7d2482f5f80ce8bda932ff47233e27f19f07a3cc",
+  "decimal": 18,
+  "isNative": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317874"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e9f3de2002eeea8ab7e6b7"
+  },
+  "chainId": 97,
+  "tokenName": "binance security coin",
+  "tokenSymbol": "bnb",
+  "tokenAddress": "0x0000000000000000000000000000000000000000",
+  "decimal": 18,
+  "isNative": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659495317872"
+    }
+  },
+  "__v": 0
+}]

@@ -1,0 +1,688 @@
+{
+    "address": "0x330E00Cfd5D2CD16D250bA4d3984175883B2a2Fa",
+    "abi": [
+        {
+            "inputs": [
+                {
+                    "internalType": "address",
+                    "name": "_card",
+                    "type": "address"
+                },
+                {
+                    "internalType": "address",
+                    "name": "_admin",
+                    "type": "address"
+                }
+            ],
+            "stateMutability": "nonpayable",
+            "type": "constructor"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": true,
+                    "internalType": "address",
+                    "name": "sender",
+                    "type": "address"
+                },
+                {
+                    "indexed": true,
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                },
+                {
+                    "indexed": false,
+                    "internalType": "uint256",
+                    "name": "cardId",
+                    "type": "uint256"
+                }
+            ],
+            "name": "Claim",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": true,
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                },
+                {
+                    "indexed": false,
+                    "internalType": "string",
+                    "name": "matchName",
+                    "type": "string"
+                }
+            ],
+            "name": "MatchCreated",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": true,
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                },
+                {
+                    "indexed": false,
+                    "internalType": "uint256[2]",
+                    "name": "scores",
+                    "type": "uint256[2]"
+                }
+            ],
+            "name": "MatchFinalized",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": false,
+                    "internalType": "address",
+                    "name": "admin",
+                    "type": "address"
+                }
+            ],
+            "name": "NewAdmin",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": true,
+                    "internalType": "address",
+                    "name": "previousOwner",
+                    "type": "address"
+                },
+                {
+                    "indexed": true,
+                    "internalType": "address",
+                    "name": "newOwner",
+                    "type": "address"
+                }
+            ],
+            "name": "OwnershipTransferred",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": true,
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                }
+            ],
+            "name": "Pause",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": false,
+                    "internalType": "address",
+                    "name": "account",
+                    "type": "address"
+                }
+            ],
+            "name": "Paused",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": true,
+                    "internalType": "address",
+                    "name": "sender",
+                    "type": "address"
+                },
+                {
+                    "indexed": true,
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                },
+                {
+                    "indexed": false,
+                    "internalType": "uint256",
+                    "name": "cardId",
+                    "type": "uint256"
+                },
+                {
+                    "indexed": false,
+                    "internalType": "enum PredictionWithCard.Position",
+                    "name": "position",
+                    "type": "uint8"
+                }
+            ],
+            "name": "Predict",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": false,
+                    "internalType": "uint256",
+                    "name": "amount",
+                    "type": "uint256"
+                }
+            ],
+            "name": "TreasuryClaim",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": true,
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                }
+            ],
+            "name": "Unpause",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": false,
+                    "internalType": "address",
+                    "name": "account",
+                    "type": "address"
+                }
+            ],
+            "name": "Unpaused",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [
+                {
+                    "indexed": true,
+                    "internalType": "address",
+                    "name": "token",
+                    "type": "address"
+                },
+                {
+                    "indexed": false,
+                    "internalType": "uint256",
+                    "name": "amount",
+                    "type": "uint256"
+                }
+            ],
+            "name": "WithdrawToken",
+            "type": "event"
+        },
+        {
+            "inputs": [],
+            "name": "admin",
+            "outputs": [
+                {
+                    "internalType": "address",
+                    "name": "",
+                    "type": "address"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [],
+            "name": "card",
+            "outputs": [
+                {
+                    "internalType": "contract ISportCard",
+                    "name": "",
+                    "type": "address"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "uint256[]",
+                    "name": "epochs",
+                    "type": "uint256[]"
+                }
+            ],
+            "name": "claim",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "address",
+                    "name": "user",
+                    "type": "address"
+                }
+            ],
+            "name": "claimable",
+            "outputs": [
+                {
+                    "internalType": "bool",
+                    "name": "",
+                    "type": "bool"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "string",
+                    "name": "matchName",
+                    "type": "string"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "startTime",
+                    "type": "uint256"
+                }
+            ],
+            "name": "createMatch",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [],
+            "name": "currentEpoch",
+            "outputs": [
+                {
+                    "internalType": "uint256",
+                    "name": "",
+                    "type": "uint256"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "uint256[2]",
+                    "name": "scores",
+                    "type": "uint256[2]"
+                }
+            ],
+            "name": "finaliseMatch",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "uint256",
+                    "name": "",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "address",
+                    "name": "",
+                    "type": "address"
+                }
+            ],
+            "name": "ledger",
+            "outputs": [
+                {
+                    "internalType": "enum PredictionWithCard.Position",
+                    "name": "position",
+                    "type": "uint8"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "cardId",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "bool",
+                    "name": "claimed",
+                    "type": "bool"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "uint256",
+                    "name": "epochMatch",
+                    "type": "uint256"
+                }
+            ],
+            "name": "matchInfo",
+            "outputs": [
+                {
+                    "internalType": "string",
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "start",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "end",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "numTeam1",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "numTeam2",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "numTeam12",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "uint256[2]",
+                    "name": "scores",
+                    "type": "uint256[2]"
+                },
+                {
+                    "internalType": "bool",
+                    "name": "finalized",
+                    "type": "bool"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "uint256",
+                    "name": "",
+                    "type": "uint256"
+                }
+            ],
+            "name": "matches",
+            "outputs": [
+                {
+                    "internalType": "string",
+                    "name": "matchName",
+                    "type": "string"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "startTime",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "endTime",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "bool",
+                    "name": "finalized",
+                    "type": "bool"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "address",
+                    "name": "",
+                    "type": "address"
+                },
+                {
+                    "internalType": "address",
+                    "name": "",
+                    "type": "address"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "bytes",
+                    "name": "",
+                    "type": "bytes"
+                }
+            ],
+            "name": "onERC721Received",
+            "outputs": [
+                {
+                    "internalType": "bytes4",
+                    "name": "",
+                    "type": "bytes4"
+                }
+            ],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [],
+            "name": "owner",
+            "outputs": [
+                {
+                    "internalType": "address",
+                    "name": "",
+                    "type": "address"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [],
+            "name": "pause",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [],
+            "name": "paused",
+            "outputs": [
+                {
+                    "internalType": "bool",
+                    "name": "",
+                    "type": "bool"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "uint256",
+                    "name": "epoch",
+                    "type": "uint256"
+                },
+                {
+                    "internalType": "enum PredictionWithCard.Position",
+                    "name": "position",
+                    "type": "uint8"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "cardId",
+                    "type": "uint256"
+                }
+            ],
+            "name": "predict",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [],
+            "name": "renounceOwnership",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "address",
+                    "name": "_admin",
+                    "type": "address"
+                }
+            ],
+            "name": "setAdmin",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "address",
+                    "name": "newOwner",
+                    "type": "address"
+                }
+            ],
+            "name": "transferOwnership",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [],
+            "name": "unpause",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "address",
+                    "name": "user",
+                    "type": "address"
+                }
+            ],
+            "name": "userInfo",
+            "outputs": [
+                {
+                    "internalType": "uint256[]",
+                    "name": "matchesJoined",
+                    "type": "uint256[]"
+                },
+                {
+                    "components": [
+                        {
+                            "internalType": "enum PredictionWithCard.Position",
+                            "name": "position",
+                            "type": "uint8"
+                        },
+                        {
+                            "internalType": "uint256",
+                            "name": "cardId",
+                            "type": "uint256"
+                        },
+                        {
+                            "internalType": "bool",
+                            "name": "claimed",
+                            "type": "bool"
+                        }
+                    ],
+                    "internalType": "struct PredictionWithCard.PredictInfo[]",
+                    "name": "predictInfo",
+                    "type": "tuple[]"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "address",
+                    "name": "",
+                    "type": "address"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "",
+                    "type": "uint256"
+                }
+            ],
+            "name": "userMatches",
+            "outputs": [
+                {
+                    "internalType": "uint256",
+                    "name": "",
+                    "type": "uint256"
+                }
+            ],
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "inputs": [
+                {
+                    "internalType": "address",
+                    "name": "_token",
+                    "type": "address"
+                },
+                {
+                    "internalType": "uint256",
+                    "name": "_amount",
+                    "type": "uint256"
+                }
+            ],
+            "name": "withdrawToken",
+            "outputs": [],
+            "stateMutability": "nonpayable",
+            "type": "function"
+        }
+    ]
+}
